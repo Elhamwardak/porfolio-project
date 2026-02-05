@@ -33,7 +33,7 @@ export default function ContactPage() {
           </Div>
           <Div className="col-lg-6">
             <form  className="row" action="https://api.web3forms.com/submit" method="POST">
-             <input type="hidden" name="access_key" value="e3b4ce7d-abb4-4aeb-962d-d7bc15bf590a"></input>
+             <input type="hidden" name="access_key" value="aee204bf-bbbb-4e13-9a75-7a1ed60ffd0a"></input>
               <Div className="col-sm-6">
                 <label className="cs-primary_color">Full Name*</label>
                 <input type="text" name="fullname" className="cs-form_field" />
